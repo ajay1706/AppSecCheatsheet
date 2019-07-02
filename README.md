@@ -1,6 +1,12 @@
 # AppSecCheatsheet
 Cheatsheet I gather from my work experience and other sources
 
+## Modern SSRF
+
+# cheatsheet from @madrobot
+
+https://medium.com/@madrobot/ssrf-server-side-request-forgery-types-and-ways-to-exploit-it-part-2-a085ec4332c0
+
 ## Extract URL from JS
 
 ### Angular 1-liner
