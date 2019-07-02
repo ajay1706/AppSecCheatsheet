@@ -1,6 +1,14 @@
 # AppSecCheatsheet
 Cheatsheet I gather from my work experience and other sources
 
+## XSS
+
+### XSS-payload-without-anything
+
+CC @hahwul
+
+https://github.com/hahwul/XSS-Payload-without-Anything
+
 ## Modern SSRF
 
 ### cheatsheet from @madrobot
